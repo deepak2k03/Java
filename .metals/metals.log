@@ -8,3 +8,786 @@
 2026.02.23 00:12:39 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
 Feb 23, 2026 12:12:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2026.02.23 00:12:44 WARN  no build target for: C:\Users\sman5\Desktop\Java\25_Packages\tools\advCal.java
+2026.02.23 00:12:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
+2026.02.23 00:12:44 WARN  no build target for: C:\Users\sman5\Desktop\Java\25_Packages\tools\cal.java
+2026.02.23 00:12:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
+2026.02.23 00:12:44 WARN  no build target for: C:\Users\sman5\Desktop\Java\26_Acess_Modifiers\src\B.java
+2026.02.23 00:12:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
+2026.02.23 00:12:44 WARN  no build target for: C:\Users\sman5\Desktop\Java\26_Acess_Modifiers\src\demo.java
+2026.02.23 00:12:44 WARN  no build target for: C:\Users\sman5\Desktop\Java\26_Acess_Modifiers\src\others\A.java
+2026.02.23 00:12:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
+2026.02.23 00:12:44 WARN  no build target for: C:\Users\sman5\Desktop\Java\26_Acess_Modifiers\src\tools\advCal.java
+2026.02.23 00:12:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
+2026.02.23 00:12:44 WARN  no build target for: C:\Users\sman5\Desktop\Java\26_Acess_Modifiers\src\tools\cal.java
+2026.02.23 00:12:45 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
+2026.02.23 00:12:52 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
+2026.02.23 00:13:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
+2026.02.23 00:13:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
+2026.02.23 00:15:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\tools\advCal.java. Using fallback presentation compiler.
+2026.02.23 00:15:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\tools\cal.java. Using fallback presentation compiler.
+2026.02.23 00:15:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\26_Acess_Modifiers\src\B.java. Using fallback presentation compiler.
+2026.02.23 00:15:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\26_Acess_Modifiers\src\demo.java. Using fallback presentation compiler.
+2026.02.23 00:15:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\26_Acess_Modifiers\src\others\A.java. Using fallback presentation compiler.
+2026.02.23 00:15:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\26_Acess_Modifiers\src\tools\advCal.java. Using fallback presentation compiler.
+2026.02.23 00:15:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\26_Acess_Modifiers\src\tools\cal.java. Using fallback presentation compiler.
+2026.02.23 00:16:53 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:53 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:16:53 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
+2026.02.23 00:16:53 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:16:53 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:53 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+Feb 23, 2026 12:16:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+2026.02.23 00:16:56 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:56 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:16:56 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:56 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:16:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:00 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:01 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:03 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:04 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:14 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:14 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:14 INFO  Created report: Optional[file:///C:/Users/sman5/Desktop/Java/28_Dynamic_Method_Dispatch/Main.java]
+2026.02.23 00:17:14 INFO  QDox parse error in file:///C:/Users/sman5/Desktop/Java/28_Dynamic_Method_Dispatch/Main.java (full report at: "C:\Users\sman5\Desktop\Java\.metals\.reports\metals-full\2026-02-23\r_qdox-error_00-17-14-076.md")
+2026.02.23 00:17:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:16 INFO  QDox parse error in file:///C:/Users/sman5/Desktop/Java/28_Dynamic_Method_Dispatch/Main.java (full report at: "C:\Users\sman5\Desktop\Java\.metals\.reports\metals-full\2026-02-23\r_qdox-error_00-17-14-076.md")
+2026.02.23 00:17:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:16 INFO  QDox parse error in file:///C:/Users/sman5/Desktop/Java/28_Dynamic_Method_Dispatch/Main.java (full report at: "C:\Users\sman5\Desktop\Java\.metals\.reports\metals-full\2026-02-23\r_qdox-error_00-17-14-076.md")
+2026.02.23 00:17:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:16 INFO  Created report: Optional[file:///C:/Users/sman5/Desktop/Java/28_Dynamic_Method_Dispatch/Main.java]
+2026.02.23 00:17:16 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\sman5\Desktop\Java\.metals\.reports\metals-full\2026-02-23\r_empty-definition_00-17-16-878.md")
+2026.02.23 00:17:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:17 WARN  Running javac-semanticdb failed for file:///C:/Users/sman5/Desktop/Java/28_Dynamic_Method_Dispatch/Main.java. Output:
+
+2026.02.23 00:17:16 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:18 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:33 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:33 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:34 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:35 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:35 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:36 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:36 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:36 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:36 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:36 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:36 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:46 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:46 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:47 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:57 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:57 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:57 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:59 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:17:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:17:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:18:00 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:18:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:18:06 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:18:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:19:06 WARN  no build target for: C:\Users\sman5\Desktop\Java\25_Packages\tools\advCal.java
+2026.02.23 00:19:06 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\tools\advCal.java. Using fallback presentation compiler.
+2026.02.23 00:19:06 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\tools\advCal.java. Using fallback presentation compiler.
+2026.02.23 00:19:07 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\tools\advCal.java. Using fallback presentation compiler.
+2026.02.23 00:19:08 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\tools\advCal.java. Using fallback presentation compiler.
+2026.02.23 00:19:08 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:19:08 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:19:08 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:19:08 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:19:09 INFO  no build target found for C:\Users\sman5\Desktop\Java\25_Packages\demo.java. Using fallback presentation compiler.
+2026.02.23 00:19:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:19:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:19:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:20:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:20:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:21:03 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\tempCodeRunnerFile.java
+2026.02.23 00:21:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\tempCodeRunnerFile.java. Using fallback presentation compiler.
+2026.02.23 00:21:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\tempCodeRunnerFile.java. Using fallback presentation compiler.
+2026.02.23 00:21:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\tempCodeRunnerFile.java. Using fallback presentation compiler.
+2026.02.23 00:21:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\tempCodeRunnerFile.java. Using fallback presentation compiler.
+2026.02.23 00:21:03 INFO  no build target found for c:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\tempCodeRunnerFile.java. Using fallback presentation compiler.
+2026.02.23 00:21:04 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.23 00:21:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:21:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:21:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:33 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:24:33 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:33 WARN  Running javac-semanticdb failed for file:///C:/Users/sman5/Desktop/Java/29_Final_Keyword/Main.java. Output:
+
+2026.02.23 00:24:33 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:33 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:33 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:34 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:24:34 WARN  Running javac-semanticdb failed for file:///C:/Users/sman5/Desktop/Java/29_Final_Keyword/Main.java. Output:
+
+2026.02.23 00:24:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:33 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:35 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:35 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:36 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:36 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:36 WARN  Running javac-semanticdb failed for file:///C:/Users/sman5/Desktop/Java/29_Final_Keyword/Main.java. Output:
+
+2026.02.23 00:24:36 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:37 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:24:37 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:39 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:24:38 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:24:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:25 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:25 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:29:25 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:55 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+Feb 23, 2026 12:29:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.23 00:29:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:57 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:29:57 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+Feb 23, 2026 12:29:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 329
+2026.02.23 00:29:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:59 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:29:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:29:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:00 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:08 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:08 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:08 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:08 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:08 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:10 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:10 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:10 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:10 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:10 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:10 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:10 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:10 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:10 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:10 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:12 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:13 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:16 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:20 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:20 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:20 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:20 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:20 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:20 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:20 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:20 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:21 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:21 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:21 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:21 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:21 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:21 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:22 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:22 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:23 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:23 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:23 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:23 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:23 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:22 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:24 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:25 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:25 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:25 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:25 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:25 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:26 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:27 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:27 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:27 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:27 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:27 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:28 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:28 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:29 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:28 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:29 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:29 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:29 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:30 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:30 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:30 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:30 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:30 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:31 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:31 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:32 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:32 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:32 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:32 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:33 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:32 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:33 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:33 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:34 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:34 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:35 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:37 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:37 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:37 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.23 00:30:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:30:39 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.23 00:52:33 INFO  Shutting down server
+2026.02.23 00:52:33 INFO  Memory monitor stopped
+2026.02.23 00:52:33 INFO  shutting down Metals
+2026.02.23 00:52:33 INFO  Exiting server
+2026.02.24 01:02:35 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\sman5\Desktop\Java' for client Visual Studio Code 1.109.5.
+2026.02.24 01:02:35 INFO  Memory monitor started
+2026.02.24 01:02:36 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.24 01:02:36 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.24 01:02:36 WARN  no build tool detected in workspace 'C:\Users\sman5\Desktop\Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.24 01:02:37 WARN  Build server is not auto-connectable.
+2026.02.24 01:02:37 WARN  no build target for: C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java
+2026.02.24 01:02:37 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.24 01:02:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\29_Final_Keyword\Main.java. Using fallback presentation compiler.
+2026.02.24 01:02:55 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:02:55 WARN  Running javac-semanticdb failed for file:///C:/Users/sman5/Desktop/Java/30_Upcasting_and_Downcasting/upcasting_downcasting.java. Output:
+
+2026.02.24 01:02:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:02:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:02:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:02:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:02:55 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:02:56 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:02:57 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:02:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:02:58 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:02:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:02:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:02:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:02:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+Feb 24, 2026 1:03:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+Feb 24, 2026 1:03:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+2026.02.24 01:03:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+Feb 24, 2026 1:03:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+2026.02.24 01:03:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+Feb 24, 2026 1:03:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+2026.02.24 01:03:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+Feb 24, 2026 1:03:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+2026.02.24 01:03:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:00 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:03:00 WARN  Running javac-semanticdb failed for file:///C:/Users/sman5/Desktop/Java/30_Upcasting_and_Downcasting/upcasting_downcasting.java. Output:
+
+2026.02.24 01:03:00 INFO  Created report: Optional[file:///C:/Users/sman5/Desktop/Java/30_Upcasting_and_Downcasting/upcasting_downcasting.java]
+2026.02.24 01:03:00 INFO  QDox parse error in file:///C:/Users/sman5/Desktop/Java/30_Upcasting_and_Downcasting/upcasting_downcasting.java (full report at: "C:\Users\sman5\Desktop\Java\.metals\.reports\metals-full\2026-02-24\r_qdox-error_01-03-00-636.md")
+2026.02.24 01:03:00 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:03:01 INFO  QDox parse error in file:///C:/Users/sman5/Desktop/Java/30_Upcasting_and_Downcasting/upcasting_downcasting.java (full report at: "C:\Users\sman5\Desktop\Java\.metals\.reports\metals-full\2026-02-24\r_qdox-error_01-03-00-636.md")
+2026.02.24 01:03:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:02 WARN  Running javac-semanticdb failed for file:///C:/Users/sman5/Desktop/Java/30_Upcasting_and_Downcasting/upcasting_downcasting.java. Output:
+
+2026.02.24 01:03:02 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:03:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:03 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:03:03 INFO  QDox parse error in file:///C:/Users/sman5/Desktop/Java/30_Upcasting_and_Downcasting/upcasting_downcasting.java (full report at: "C:\Users\sman5\Desktop\Java\.metals\.reports\metals-full\2026-02-24\r_qdox-error_01-03-00-636.md")
+2026.02.24 01:03:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:04 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:04 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:03 WARN  Running javac-semanticdb failed for file:///C:/Users/sman5/Desktop/Java/30_Upcasting_and_Downcasting/upcasting_downcasting.java. Output:
+
+2026.02.24 01:03:04 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:03:04 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:09 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:13 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:03:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:03:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+Feb 24, 2026 1:03:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/sman5/Desktop/Java/28_Dynamic_Method_Dispatch/Main.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.02.24 01:03:18 WARN  no build target for: C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java
+2026.02.24 01:03:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.24 01:03:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.24 01:03:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.24 01:03:19 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.24 01:03:20 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.24 01:03:23 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.24 01:03:23 INFO  no build target found for C:\Users\sman5\Desktop\Java\28_Dynamic_Method_Dispatch\Main.java. Using fallback presentation compiler.
+2026.02.24 01:04:40 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:40 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:04:40 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:41 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:41 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:43 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:43 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:43 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:43 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:04:43 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:44 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:45 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:04:45 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:46 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:46 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:46 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:46 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:46 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:46 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:46 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:46 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:48 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:48 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:48 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:48 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:48 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:48 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:49 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:48 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:49 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:50 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:50 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:50 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:04:50 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:51 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:51 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:51 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:51 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:51 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:51 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:52 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:51 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:51 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:51 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:52 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:52 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:52 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:52 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:53 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:52 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:52 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:52 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:53 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:52 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:52 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:53 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:54 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:04:54 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:54 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:54 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:54 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:54 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:54 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:55 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:04:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:55 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:56 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:04:56 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:59 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:04:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:58 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:04:59 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:00 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:01 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:05:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:01 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:02 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:03 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:05:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:03 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:04 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:05:04 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:04 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:04 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:04 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:05 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:05 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:07 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:07 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:07 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:05:07 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:07 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:08 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:08 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:08 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:05:08 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:12 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:05:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:11 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:12 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:13 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:05:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:14 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:13 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:14 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:05:14 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:14 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:14 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:14 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:14 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:14 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:14 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:14 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:14 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:15 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:16 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:17 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:05:18 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:05:18 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:22 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:22 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:22 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:22 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:23 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:23 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:23 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:23 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:06:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:25 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:24 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:25 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:25 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:06:25 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:38 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:06:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+Feb 24, 2026 1:06:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.24 01:06:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:47 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.24 01:06:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:48 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 01:06:50 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.24 02:22:34 INFO  Shutting down server
+2026.02.24 02:22:34 INFO  Memory monitor stopped
+2026.02.24 02:22:34 INFO  shutting down Metals
+2026.02.24 02:22:34 INFO  Exiting server
+2026.02.27 00:04:37 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\sman5\Desktop\Java' for client Visual Studio Code 1.109.5.
+2026.02.27 00:04:37 INFO  Memory monitor started
+2026.02.27 00:04:38 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.27 00:04:38 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.27 00:04:39 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.27 00:04:39 WARN  no build tool detected in workspace 'C:\Users\sman5\Desktop\Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.27 00:04:40 WARN  Build server is not auto-connectable.
+2026.02.27 00:04:40 WARN  no build target for: C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java
+2026.02.27 00:04:40 INFO  no build target found for C:\Users\sman5\Desktop\Java\30_Upcasting_and_Downcasting\upcasting_downcasting.java. Using fallback presentation compiler.
+2026.02.27 00:04:42 INFO  time: code lens generation in 1.41s
+2026.02.27 00:04:45 WARN  no build target for: C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java
+2026.02.27 00:04:45 WARN  Running javac-semanticdb failed for file:///C:/Users/sman5/Desktop/Java/31_Wrapper_classes/demo.java. Output:
+
+2026.02.27 00:04:45 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:45 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:48 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:47 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:48 WARN  no build target for: C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java
+2026.02.27 00:04:48 WARN  Running javac-semanticdb failed for file:///C:/Users/sman5/Desktop/Java/31_Wrapper_classes/demo.java. Output:
+
+2026.02.27 00:04:48 INFO  Created report: Optional[file:///C:/Users/sman5/Desktop/Java/31_Wrapper_classes/demo.java]
+2026.02.27 00:04:48 INFO  QDox parse error in file:///C:/Users/sman5/Desktop/Java/31_Wrapper_classes/demo.java (full report at: "C:\Users\sman5\Desktop\Java\.metals\.reports\metals-full\2026-02-27\r_qdox-error_00-04-48-770.md")
+2026.02.27 00:04:48 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:49 INFO  QDox parse error in file:///C:/Users/sman5/Desktop/Java/31_Wrapper_classes/demo.java (full report at: "C:\Users\sman5\Desktop\Java\.metals\.reports\metals-full\2026-02-27\r_qdox-error_00-04-48-770.md")
+2026.02.27 00:04:49 WARN  no build target for: C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java
+2026.02.27 00:04:49 WARN  Running javac-semanticdb failed for file:///C:/Users/sman5/Desktop/Java/31_Wrapper_classes/demo.java. Output:
+
+2026.02.27 00:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:49 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:49 WARN  no build target for: C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java
+2026.02.27 00:04:50 INFO  QDox parse error in file:///C:/Users/sman5/Desktop/Java/31_Wrapper_classes/demo.java (full report at: "C:\Users\sman5\Desktop\Java\.metals\.reports\metals-full\2026-02-27\r_qdox-error_00-04-48-770.md")
+2026.02.27 00:04:50 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:04:50 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:05:06 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:05:06 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:05:06 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+2026.02.27 00:05:06 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
+Feb 27, 2026 12:05:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Feb 27, 2026 12:05:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+2026.02.27 00:05:07 INFO  no build target found for C:\Users\sman5\Desktop\Java\31_Wrapper_classes\demo.java. Using fallback presentation compiler.
