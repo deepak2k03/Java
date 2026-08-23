@@ -1,0 +1,13 @@
+.metals*
+.metals/
+# Metals
+.metals/
+.metals.lock.db
+.metals.log
+.metals.mv.db
+
+# Bloop
+.bloop/
+
+# Scala CLI
+.scala-build/
