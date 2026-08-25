@@ -1,5 +1,4 @@
 class calc{
-    int x=5;
     public int add(int x, int y){
         return x+y;
     }
